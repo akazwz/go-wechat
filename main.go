@@ -66,7 +66,7 @@ func SendMsg() {
 		Color: "",
 	}
 	data["phrase1"] = &subscribe.DataItem{
-		Value: "吃饭了干嘛吗",
+		Value: "吃饭了吗",
 		Color: "",
 	}
 	data["date2"] = &subscribe.DataItem{
